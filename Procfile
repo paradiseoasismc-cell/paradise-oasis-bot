@@ -1,1 +1,1 @@
-python3 paradiseoasisbot.py
+web: python3 paradiseoasisbot.py
